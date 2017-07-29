@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/64cd319d1c4dac89bae7cfaccb78b5ade3d92859/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_020229f0374e82e672bb9941b50d3834645a8c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_e13df8dea52d6cba3ead399dfe77069da685294c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d5706bc6a379935eb634504b323f87c3d4d1f792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/21f7bd8677c0bee6cd47f3b59169c45ca473106c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_6c41c8e6c7108f2072c348de14bdce3e67b384b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/8793ba001ebd1e4d5efaec3c287cd2fd4754a8ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_187df7d990c4a47afe3cd94c8db4da685730e5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/f98c26223d5d5b1b7624a5ce00caf277ec3fa3d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_c54df55cb09d20183ced8081bdaee27601ae4345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/c291d04aa58b413ae87d0011437ddfe242e28ff1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_1e037eaa273a0fcd2bbff4d3cd167fc53a332fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_840679a8622f4d6cda34a04e5bc619d5c0a98b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/f7e8abc64e834fe06968f24c13ac767e02f9ef5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_4650d091d62b2d98a993bfde8c7a7b569227c7de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/8339d86a1d6d82b21d11b96512ec8b87cf6e4f3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_689ffd80aa455c6be5d7dff969da018400004784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_be1cdb4cc5febf7e65c903cf5ffb4af962763935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/c0131e2f76d17142a7e3bf3bfa2cc666fb1e77b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_002a18a819575bf9f18e0b8f703c3c321dd1e917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/gson-2.7_4a2cae40356ef4e4413dfd6dc75d3efef8273bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/8ffede7712d5be01b0a13073affd45f204afd739/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_c809d85b3dcbe352a5ff8f07bdb9d44f8ac8ffa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.plaid/plaid-java/2.1.2/9a502c0b60334945b8f33209497d655e56e27895/plaid-java-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a502c0b60334945b8f33209497d655e56e27895">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/plaid-java-2.1.2_edb0a43f80288f2d10cbb6da0f3fd40c45f2594c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_a1e6afb9ddb36cb720e9b9d40eca086a3c92f92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/okio-1.11.0_aa716f4dc967bd49ff691ad934cd5fe527f71a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/9b6682b52d5d2fdb2a753c062d7234cc892ec3b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_1d67ed9bb508c860f329ab59e46d73a7a46b0a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/99dd1dcfe85704fb7ffb73cf96e9efa385f08392/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_83b150d1f415777e75bfa24479c7d90763f7a5d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/8cf2544cef0d215c3f3de9778e8bd12a66cd6760/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_f6b6ea35ebc202c62c8297aadd1536eeb369a0e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_b21201c1238a4f3746ec81fbb0c74c22987aea0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/arichunter/.android/build-cache/880917454eb38195071b73049ae31e21c602ab33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/arichunter/AndriodBanking/app/build/intermediates/pre-dexed/debug/classes_550bace1abef897f8736dfd0dc7904e2ccd7ad74.jar" />
+    </item>
+
+</items>
