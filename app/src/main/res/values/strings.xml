@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">federicoBankingApp</string>
+    <string name="username_hint">User Name</string>
+    <string name="password_hint">Password</string>
+    <string name="submit">Submit</string>
     <string name="action_settings">Settings</string>
 </resources>

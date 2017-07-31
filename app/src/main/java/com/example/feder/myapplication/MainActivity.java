@@ -1,5 +1,6 @@
 package com.example.feder.myapplication;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.StrictMode;
 import android.support.design.widget.FloatingActionButton;
@@ -9,6 +10,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListAdapter;
+import android.widget.ListView;
 
 import com.plaid.client.PlaidClient;
 import com.plaid.client.request.AccountsGetRequest;
@@ -28,6 +33,7 @@ import com.plaid.client.response.TransactionsGetResponse;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
+import java.util.ArrayList;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -46,19 +52,40 @@ public class MainActivity extends AppCompatActivity {
                 .build();
 
         client.service()
-                .institutionsGet(new InstitutionsGetRequest(3, 0))
+                .institutionsGet(new InstitutionsGetRequest(20, 0))
                 .enqueue(new Callback<InstitutionsGetResponse>() {
                     @Override
                     public void onResponse(Call<InstitutionsGetResponse> call, Response<InstitutionsGetResponse> response) {
                         if (response.isSuccessful()) {
-                            List<Institution> institutions = response.body().getInstitutions();
+                            final List<Institution> institutions = response.body().getInstitutions();
+                            String[] bankName = new String[institutions.size()];
+                            for(int i = 0; i < bankName.length; i++){
+                                bankName[i] = institutions.get(i).getName();
+                            }
+                            ListView myList = (ListView) findViewById(R.id.listViewMain);
+                            ArrayAdapter<String> adapter = new ArrayAdapter<String>(myList.getContext(), R.layout.item, bankName);
+                            myList.setAdapter(adapter);
+
+                            myList.setOnItemClickListener(
+                                    new AdapterView.OnItemClickListener(){
+                                        @Override
+                                        public void onItemClick(AdapterView<?> parent, View view, int position, long id){
+                                            Institution i = institutions.get(position);
+                                            Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+                                            intent.putExtra("INSTITUTION_ID", i.getInstitutionId());
+                                            startActivity(intent);
+                                        }
+                                    });
                         }
                     }
+
                     @Override
                     public void onFailure(Call<InstitutionsGetResponse> call, Throwable t) {
                         t.printStackTrace();
                     }
                 });
+
+
     }
 
     @Override
