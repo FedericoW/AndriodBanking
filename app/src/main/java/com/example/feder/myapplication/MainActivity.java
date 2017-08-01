@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 .build();
 
         client.service()
-                .institutionsGet(new InstitutionsGetRequest(20, 0))
+                .institutionsGet(new InstitutionsGetRequest(10, 0))
                 .enqueue(new Callback<InstitutionsGetResponse>() {
                     @Override
                     public void onResponse(Call<InstitutionsGetResponse> call, Response<InstitutionsGetResponse> response) {
